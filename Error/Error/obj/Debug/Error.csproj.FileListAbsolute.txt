@@ -1,0 +1,2 @@
+C:\Users\lyss_\source\repos\Error\Error\obj\Debug\Error.csprojAssemblyReference.cache
+C:\Users\lyss_\source\repos\Error\Error\obj\Debug\Error.csproj.CoreCompileInputs.cache
